@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o **Agsterr**
+# 👋 Olá! Eu sou o **Agster**
 
 🎯 **Desenvolvedor Java | Engenheiro de Software | Entusiasta de Back-End**
 
