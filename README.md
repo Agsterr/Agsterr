@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou o **Agster**
 
-🎯 **Desenvolvedor Java | Engenheiro de Software | Entusiasta de Back-End**
+🎯 **Desenvolvedor Java | Engenheiro de Software | Desenvolvedor Back-End**
 
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por criar APIs robustas e escaláveis, com foco em segurança e boas práticas de desenvolvimento. Meus projetos demonstram minha experiência em Java, Spring Boot, autenticação JWT e outras tecnologias do ecossistema de desenvolvimento moderno.
 
 ---
 
 ## 🚀 Sobre mim  
-- 🎓 **Formação**: Estudante de Engenharia de Software  
+- 🎓 **Formação**: Engenheiro de Software  
 - 🌱 **Atualmente aprendendo**: Docker, Angular e boas práticas de refatoração de código  
 - 💼 **Foco**: Desenvolvimento back-end e integração com sistemas front-end  
 - ✨ **Destaque**: Experiência em criar APIs seguras com autenticação, utilizando o Spring Security e JWT  
