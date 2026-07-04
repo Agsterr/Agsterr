@@ -4,7 +4,7 @@
 
 Crio APIs robustas, apps mobile e sistemas completos em produção — com foco em segurança, boas práticas e deploy automatizado.
 
-🌐 **Site:** [focodev.com.br](https://focodev.com.br)
+🌐 **Site:** [www.focodev.com.br](https://www.focodev.com.br)
 
 ---
 
@@ -23,7 +23,7 @@ Crio APIs robustas, apps mobile e sistemas completos em produção — com foco 
 |---------|-----------|-------|------|
 | **Gerenciamento de Estoque** | API + front para controle de estoque, vendas e assinaturas | Java, Spring Boot, Angular, PostgreSQL | [Repo](https://github.com/Agsterr/Gerenciamento_de_estoque) · [focodev.com.br](https://focodev.com.br) |
 | **App Rotas** | Rotas inteligentes para motoristas/entregadores | Flutter, Spring Boot, Next.js, PostgreSQL | [Repo](https://github.com/Agsterr/app_rotas) · [rotas.focodev.com.br](https://rotas.focodev.com.br) |
-| **Focodev Site** | Site institucional com painel admin de conteúdo | Next.js, Prisma, PostgreSQL | [Repo](https://github.com/Agsterr/focodev) |
+| **Focodev Site** | Site institucional com painel admin de conteúdo | Next.js, Prisma, PostgreSQL | [Repo](https://github.com/Agsterr/focodev) · [www.focodev.com.br](https://www.focodev.com.br) |
 | **Gerenciamento Total Mais** | App Android para pequenos negócios (clientes, vendas, agenda) | Java, Android, SQLite | [Repo](https://github.com/Agsterr/app_salao_android_java) |
 | **Currículo Fácil** | App Flutter para criar e exportar currículos em PDF | Flutter, SQLite, OCR | [Repo](https://github.com/Agsterr/CurriculoFacil) |
 
