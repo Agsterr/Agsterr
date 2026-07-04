@@ -1,84 +1,80 @@
-# 👋 Olá! Eu sou o **Agster**
+# Olá! Eu sou o Agster
 
-🎯 **Desenvolvedor Java | Engenheiro de Software | Desenvolvedor Back-End**
+**Desenvolvedor Java · Engenheiro de Software · Back-end & Full-stack**
 
-Bem-vindo ao meu perfil GitHub! Sou apaixonado por criar APIs robustas e escaláveis, com foco em segurança e boas práticas de desenvolvimento. Meus projetos demonstram minha experiência em Java, Spring Boot, autenticação JWT e outras tecnologias do ecossistema de desenvolvimento moderno.
+Crio APIs robustas, apps mobile e sistemas completos em produção — com foco em segurança, boas práticas e deploy automatizado.
 
----
-
-## 🚀 Sobre mim  
-- 🎓 **Formação**: Engenheiro de Software  
-- 🌱 **Atualmente aprendendo**: Docker, Angular e boas práticas de refatoração de código  
-- 💼 **Foco**: Desenvolvimento back-end e integração com sistemas front-end  
-- ✨ **Destaque**: Experiência em criar APIs seguras com autenticação, utilizando o Spring Security e JWT  
+🌐 **Site:** [focodev.com.br](https://focodev.com.br)
 
 ---
 
-## 💻 Tecnologias e Ferramentas  
+## Sobre mim
 
-### **Backend:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+- Formação em **Engenharia de Software**
+- Foco em **back-end** (Spring Boot) e integração com front-ends modernos
+- Experiência com **JWT**, multi-tenant, pagamentos (Asaas / Mercado Pago) e CI/CD
+- Projetos em **produção** no Hetzner com Docker, nginx e Cloudflare Tunnel
 
-### **Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+---
 
-### **Banco de Dados:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+## Projetos em produção
 
-### **DevOps:**
+| Projeto | Descrição | Stack | Link |
+|---------|-----------|-------|------|
+| **Gerenciamento de Estoque** | API + front para controle de estoque, vendas e assinaturas | Java, Spring Boot, Angular, PostgreSQL | [Repo](https://github.com/Agsterr/Gerenciamento_de_estoque) · [focodev.com.br](https://focodev.com.br) |
+| **App Rotas** | Rotas inteligentes para motoristas/entregadores | Flutter, Spring Boot, Next.js, PostgreSQL | [Repo](https://github.com/Agsterr/app_rotas) · [rotas.focodev.com.br](https://rotas.focodev.com.br) |
+| **Focodev Site** | Site institucional com painel admin de conteúdo | Next.js, Prisma, PostgreSQL | [Repo](https://github.com/Agsterr/focodev) |
+| **Gerenciamento Total Mais** | App Android para pequenos negócios (clientes, vendas, agenda) | Java, Android, SQLite | [Repo](https://github.com/Agsterr/app_salao_android_java) |
+| **Currículo Fácil** | App Flutter para criar e exportar currículos em PDF | Flutter, SQLite, OCR | [Repo](https://github.com/Agsterr/CurriculoFacil) |
+
+---
+
+## Tecnologias
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Frontend & Mobile
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-1488C6?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
-## 🌟 Repositórios em Destaque  
+## Outros repositórios
 
-### **1. [API de Cadastro de Médicos](https://github.com/Agsterr/Api_Cadastro_De_Medicos):**  
-API desenvolvida com Spring Boot, focada em gerenciar informações de médicos, com segurança integrada.  
+### APIs e sistemas
+- [Gerenciamento de Estoque — Front](https://github.com/Agsterr/Gerenciamento_de_estoque_front) — Angular 19
+- [Gerenciamento de Manutenção](https://github.com/Agsterr/Gerenciamento_de_Manutencao) — API de oficinas
+- [API Cadastro de Médicos](https://github.com/Agsterr/Api_Cadastro_De_Medicos) — Voll.med (Alura)
+- [API Login de Usuário](https://github.com/Agsterr/Api_Login_De_Usuario) — Primeira API REST com JWT
 
-- **Tecnologias:** Spring Boot, PostgreSQL, Spring Security, JWT  
-- **Destaques:** Boas práticas SOLID, validações com Bean Validation, autenticação segura  
-
-### **2. [ScreenMatch-Sem-Web](https://github.com/Agsterr/screenmatch-sem-web):**  
-API para gerenciamento de séries e filmes, utilizando conceitos avançados de Java.  
-
-- **Tecnologias:** Java, Spring Boot, JPA  
-- **Destaques:** Arquitetura limpa, refatoração de código  
-
-### **3. [Java Alura](https://github.com/Agsterr/Java-Alura):**  
-Repositório com exercícios e projetos desenvolvidos durante estudos na plataforma Alura.  
-
-- **Tecnologias:** Java, Spring Boot  
-
-### **4. [Projeto de Refatoração de Código](https://github.com/Agsterr/Projeto_de_refatoracao_de_codigo):**  
-Projeto para aplicar padrões de refatoração e melhorar o desempenho do código.  
-
-- **Tecnologias:** Java, Spring Boot, JPA  
+### Estudos Alura
+- [Java-Alura](https://github.com/Agsterr/Java-Alura) — Exercícios e desafios
+- [ScreenMatch](https://github.com/Agsterr/screenmatch-sem-web) · [Front-end](https://github.com/Agsterr/Java_web_front)
+- [Projeto de Refatoração](https://github.com/Agsterr/Projeto_de_refatoracao_de_codigo) — Adopet Console
+- [HTML Aulas](https://github.com/Agsterr/html-aulas) · [Mais Aulas](https://github.com/Agsterr/mais-aulas)
 
 ---
 
-## 🌐 Vamos nos conectar?  
-- ✉️ **Email**: [agster.santos01@gmail.com](mailto:agster.santos01@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/agster-junior-da-costa-santos](https://www.linkedin.com/in/agster-junior-da-costa-santos-806b76282/)  
-- 🐙 **GitHub**: [github.com/Agsterr](https://github.com/Agsterr)  
+## Vamos nos conectar?
+
+- Email: [agster.santos01@gmail.com](mailto:agster.santos01@gmail.com)
+- LinkedIn: [agster-junior-da-costa-santos](https://www.linkedin.com/in/agster-junior-da-costa-santos-806b76282/)
+- GitHub: [github.com/Agsterr](https://github.com/Agsterr)
 
 ---
 
-## 📂 Outros Repositórios  
-- [Testes com Git](https://github.com/Agsterr/testegit)  
-- [HTML Aulas](https://github.com/Agsterr/html-aulas)  
-- [Mais Aulas](https://github.com/Agsterr/mais-aulas)  
-- [Preplanrun](https://github.com/Agsterr/preplanrun)  
-
----
-
-⭐ **Se você gostou dos meus projetos, não esqueça de dar uma estrela!**  
-
+Se gostou dos projetos, deixa uma estrela nos repositórios!
