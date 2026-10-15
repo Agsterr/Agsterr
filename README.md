@@ -178,7 +178,8 @@ public class Agster {
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agsterr&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+  <!-- Cards gerados pelo workflow .github/workflows/profile-cards.yml -->
+  <img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Gráfico de atividade" />
 </p>
 
 <!-- Cobrinha comendo as contribuições (gerada pelo workflow .github/workflows/snake.yml) -->
