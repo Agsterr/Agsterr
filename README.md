@@ -39,39 +39,6 @@ public class Agster {
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-### 🤖 Inteligência Artificial & Automação
-<p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/RAG%20%2B%20pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Agentes%20de%20IA-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="Agentes de IA" />
-</p>
-
-### ⚙️ Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,sqlite&theme=dark" alt="Back-end" />
-</p>
-
-### 🎨 Front-end & 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,flutter,dart,androidstudio,tailwind&theme=dark" alt="Front-end e Mobile" />
-</p>
-
-### 🚀 DevOps & Deploy
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,githubactions,cloudflare,git&theme=dark" alt="DevOps" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SSH%20Deploy-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="SSH" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-
----
-
 ## 🔥 Projetos em produção
 
 <table>
@@ -163,6 +130,39 @@ public class Agster {
 - [HTML Aulas](https://github.com/Agsterr/html-aulas) · [Mais Aulas](https://github.com/Agsterr/mais-aulas)
 
 </details>
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### 🤖 Inteligência Artificial & Automação
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/RAG%20%2B%20pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="Agentes de IA" />
+</p>
+
+### ⚙️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,sqlite&theme=dark" alt="Back-end" />
+</p>
+
+### 🎨 Front-end & 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,flutter,dart,androidstudio,tailwind&theme=dark" alt="Front-end e Mobile" />
+</p>
+
+### 🚀 DevOps & Deploy
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,githubactions,cloudflare,git&theme=dark" alt="DevOps" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SSH%20Deploy-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="SSH" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
 
 ---
 
